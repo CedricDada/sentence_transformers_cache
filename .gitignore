@@ -1,5 +1,4 @@
 # Cache et fichiers temporaires
-.locks/
 __pycache__/
 *.pyc
 *.pyo
